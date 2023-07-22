@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(31, 40, 40);
+    font-family: sans-serif;
+    border-radius: 5px;
+}
+
+#main {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(48, 61, 61);
+    border-radius: 5px;
+    color: whitesmoke;
+}
+
+#title {
+    font-size: 2rem;
+    text-shadow: 5px 4px 5px rgba(0, 0, 0, 0.8);
+    text-align: center;
+}
+
+#title-info {
+    text-align: center;
+}
+
+img {
+    display: block;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 2px;
+}
+
+#fig-img {
+    padding: 10px;
+    background-color: rgb(31, 40, 40);
+    border-radius: 5px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#img-caption > * {
+    display: block;
+    padding: 5px;
+}
+
+#img-link > a {
+    text-decoration: none;
+    color: gray;
+    font-family: cursive;
+    font-size: 14px;
+}
+
+#tribute-info {
+    margin: 20px;
+}
+
+#tribute-info > ul > li {
+    padding: 10px;
+}
+
+.tribute-div {
+    background-color: rgb(72, 77, 77);
+    border-radius: 5px;
+}
+
+.tribute-div > div {
+    padding: 10px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.tribute-div > div > a {
+    text-decoration: none;
+    color: greenyellow;
+    font-family: cursive;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#tribute-link2 {
+    color: orangered;
+}
+#p1 {
+    background-color: rgb(31, 40, 40);
+    padding: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 4px;
+    color: wheat;
+}
